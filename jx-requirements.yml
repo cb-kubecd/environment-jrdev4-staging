@@ -30,7 +30,7 @@ environments:
 gitops: true
 helmfile: true
 ingress:
-  domain: ""
+  domain: rawlingsdemo.co.uk
   externalDNS: false
   namespaceSubDomain: -jx-staging.
   tls:
